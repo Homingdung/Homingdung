@@ -1,5 +1,7 @@
 # Hi there 👋, this is Peter
 ![nonlinear](https://github.com/Peter3822724/Peter3822724/blob/main/nonlinear.gif)
+![text](https://github.com/Peter3822724/Peter3822724/blob/main/text.gif)
+# About me 
 + 📖 I am student major in mathematics
 + 🏫 University of Nottingham
 + 🤔 I’m keeping my curiosity in real world problems and I am always attracted by the nonlinear beauty of this world 
