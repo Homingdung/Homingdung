@@ -1,9 +1,10 @@
 # Hi there 👋, this is Peter
-+ 🏫 I am student major in mathematics
-+ 🤔 I’m keeping my curiosity in real world problems
-+ 📫 How to reach me: mingdonghe86@gmail.com
++ 📖 I am student major in mathematics
++ 🏫 University of Nottingham
++ 🤔 I’m keeping my curiosity in real world problems and I am always attracted by the nonlinear beauty of this world 
 + 🌱 I’m currently improving my computer skills which could better express my mathematical ideas
 + ⚡ Fun fact: I love mathematics, music and languages
++ 📫 How to reach me: mingdonghe86@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter3822724)](https://github.com/anuraghazra/github-readme-stats)
