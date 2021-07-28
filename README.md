@@ -10,7 +10,9 @@
     + 🔢 mathematics：Love it for no reason.
     + 🎵 music:I used to be a drum player in orchestra and a guitar player in a rock band.
     + 🀄️languages: Chinese English Russian Cantonese...especially the beauty of Chinese characters and the exactitude of Latin languages)
+    + 📖 books: I love reading books and I am also a book collector, especially for books about politics, history and culture. 
 + 📫 How to reach me: mingdonghe86@gmail.com
++ I have a respository called [readingList](https://github.com/Homingdung/readingList), containing some classical references books I read, which could be helpful for university mathematics study.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homingdung)](https://github.com/anuraghazra/github-readme-stats)
