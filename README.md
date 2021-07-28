@@ -6,7 +6,7 @@
 + 🏫 University of Nottingham
 + 🤔 I’m keeping my curiosity in real world problems and I am always attracted by the nonlinear beauty of this world 
 + 🌱 I’m currently improving my computer skills which could better express my mathematical ideas
-+ ⚡ Fun fact: I love mathematics, music and languages
++ ⚡ Fun fact: I love mathematics, music and languages (Chinese English Russian Cantonese...)
 + 📫 How to reach me: mingdonghe86@gmail.com
 
 
