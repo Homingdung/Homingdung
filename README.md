@@ -3,10 +3,13 @@
 ![text](https://github.com/Homingdung/Homingdung/blob/main/text.gif)
 # About me 
 + 📖 I am student major in mathematics
-+ 🏫 University of Nottingham
++ 🏫 University of Nottingham, UK
 + 🤔 I’m keeping my curiosity in real world problems and I am always attracted by the nonlinear beauty of this world 
 + 🌱 I’m currently improving my computer skills which could better express my mathematical ideas
-+ ⚡ Fun fact: I love mathematics, music and languages (Chinese English Russian Cantonese...)
++ ⚡️I love：
+    + 🔢 mathematics：Love it for no reason.
+    + 🎵 music:I used to be a drum player in orchestra and a guitar player in a rock band.
+    + 🀄️languages: Chinese English Russian Cantonese...especially the beauty of Chinese characters and the exactitude of Latin languages)
 + 📫 How to reach me: mingdonghe86@gmail.com
 
 
