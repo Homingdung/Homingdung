@@ -1,6 +1,6 @@
 # Hi there 👋, this is Peter
-![nonlinear](https://github.com/Peter3822724/Peter3822724/blob/main/nonlinear.gif)
-![text](https://github.com/Peter3822724/Peter3822724/blob/main/text.gif)
+![nonlinear](https://github.com/Homingdung/Homingdung/blob/main/nonlinear.gif)
+![text](https://github.com/Homingdung/Homingdung/blob/main/text.gif)
 # About me 
 + 📖 I am student major in mathematics
 + 🏫 University of Nottingham
