@@ -29,9 +29,10 @@ I love reading books, both math and non-math: especially for books about history
 # Technical skills:
 + Python, Matlab, R, latex, HTML, CSS, Javascript.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homingdung)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homingdung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homingdung&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homingdung&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Notable achievement:
