@@ -35,8 +35,8 @@ I love reading books, both math and non-math: especially for books about history
 
 
 # Notable achievement:
-+ 2019: Head's scholarship (💷 300) for academic performance in the foundation year.
-+ 2021: Dean's scholarship （💷 600） for academic performance in the first year.
++ 2019: Head's scholarship for academic performance in the foundation year.
++ 2021: Dean's scholarship for academic performance in the first year.
 + 2021: ICM Meritorious Winner, presented by SIAM.
 
 
