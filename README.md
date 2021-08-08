@@ -27,7 +27,7 @@ I love reading books, both math and non-math: especially for books about history
 
 
 # Technical skills:
-+ Python, Matlab, R, latex, HTML, CSS, Javascript.
++ Python, Matlab, R, lingo, Mathematica, latex, HTML, CSS, Javascript.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homingdung&show_icons=true&theme=radical)
