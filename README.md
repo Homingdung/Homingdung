@@ -8,7 +8,7 @@
 - 📫 How to reach me: mingdonghe86@gmail.com
 
 # Technical skills:
-+ Python, Matlab, R, lingo, Mathematica, latex, HTML, CSS, Javascript.
++ Python, Matlab, R, Mathematica, Maple, lingo, latex, HTML, CSS, Javascript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homingdung&show_icons=true&theme=radical)
 
