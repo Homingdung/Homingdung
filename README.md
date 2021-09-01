@@ -7,6 +7,8 @@
 - 📖 I love reading books, especially for books about history and culture. I have a personal [readingList](https://github.com/Homingdung/readingList) for my mathematics study, containing some classical references books about mathematics I read, which could be helpful for university mathematics study.
 - 📫 How to reach me: mingdonghe86@gmail.com
 
+![Rocket](https://github.com/Homingdung/Homingdung/blob/main/rocket.gif)
+
 # Technical skills:
 + Python, Matlab, R, Mathematica, Maple, lingo, latex, HTML, CSS, Javascript.
 
