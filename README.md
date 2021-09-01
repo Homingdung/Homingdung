@@ -1,5 +1,5 @@
 # Hey! This is Mingdong!
-![nonlinear](https://github.com/Homingdung/Homingdung/blob/main/nonlinear.gif)![text](https://github.com/Homingdung/Homingdung/blob/main/text.gif)
+![nonlinear](https://github.com/Homingdung/Homingdung/blob/main/nonlinear.gif)
 
 
 - 🔭 I’m currently a mathematical student, my current mathematical interests are in applied mathematics, dynamical systems and computational mathematics.
@@ -14,14 +14,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homingdung&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![text](https://github.com/Homingdung/Homingdung/blob/main/text.gif)
+
 # Goal in this year (new semester)
-+ Study the qualitative theory of differential equations
-+ Get to know and explore the mathematical biology and how differential equations can be applied to this area
-+ Start to learn optimization systematically
-+ Improve my programming skills like C++, python
-+ Read more books about the history and culture of UK
-+ Travel to Europe (if possible) and experience the mathematical culture there
-+ Learn German!
++ 🔭 Study the qualitative theory of differential equations
++ 🌳 Get to know and explore the mathematical biology and how differential equations can be applied to this area
++ 📖 Read more books about the history and culture of UK
++ 😄 Travel to Europe (if possible) and experience the mathematical culture there
++ 🇩🇪 Learn German!
 <!--
 **Peter3822724/Peter3822724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
