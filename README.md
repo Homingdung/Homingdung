@@ -23,7 +23,7 @@
 + 🌳 Get to know and explore the mathematical biology and how differential equations can be applied to this area
 + 📖 Read more books about the history and culture of UK
 + 😄 Travel to Europe (if possible) and experience the mathematical culture there
-+ 🇩🇪 Learn German!
++ 🇩🇪 Learn German and 🇫🇷 French!
 <!--
 **Peter3822724/Peter3822724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
