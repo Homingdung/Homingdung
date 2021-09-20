@@ -16,7 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homingdung&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![text](https://github.com/Homingdung/Homingdung/blob/main/text.gif)
 
 # Goal in this year (new semester)
 + 🔭 Study the qualitative theory of differential equations
